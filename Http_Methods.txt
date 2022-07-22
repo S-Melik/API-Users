@@ -1,0 +1,8 @@
+
+GET : for getting data
+
+POST : for creating data
+
+PUT : for updating data
+
+DELETE : for deleting data
